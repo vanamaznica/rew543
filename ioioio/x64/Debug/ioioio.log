@@ -1,0 +1,9 @@
+﻿  Task4.cpp
+  Task3.cpp
+  Task2.cpp
+  Task1.cpp
+  Создание кода...
+Task3.obj : error LNK2005: main уже определен в Task4.obj
+Task2.obj : error LNK2005: main уже определен в Task4.obj
+Task1.obj : error LNK2005: main уже определен в Task4.obj
+C:\Users\vanam\source\repos\ioioio\x64\Debug\ioioio.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
